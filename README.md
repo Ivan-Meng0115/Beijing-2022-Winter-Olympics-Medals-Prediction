@@ -1,4 +1,4 @@
-## [Winter Olympic Games ---  Exploratory Data Analysis](https://github.com/Ivan-Meng0115/R-for-Data-Visualization/blob/main/Data%20Visualization_%20Winter%20Olympic%20Games%20Analysis%20Projec.Rmd)
+## [Winter Olympic Games ---  Exploratory Data Analysis](https://github.com/Ivan-Meng0115/R-for-Data-Visualization/blob/main/Result%20of%20Project.PDF)
 
 The Project focuses on data wrangling and visualization. I combine thrre sources of datasets, tidy the resulting datasets, create summary statistics and visualization to find a trend between the number of athletes from different countries and the total medals they acquire during the events and a relationship between the number of coaches and the total number of medals for that specific country.
 
