@@ -22,7 +22,7 @@ medals.csv: general information on all athletes who won a medal
 ### Exploratory Data Analysis (EDA)
 
 #### graph show the Top 10 Country
-![](
+![](https://github.com/Ivan-Meng0115/R-for-Data-Visualization/blob/main/Top%2010%20country%20with%20medals.png)
 
 #### graph showing the relationship between total medal counts and number of athletes
 ![](https://github.com/Ivan-Meng0115/R-for-Data-Visualization/blob/main/medals%20for%20each%20country.png)
