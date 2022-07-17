@@ -1,2 +1,2 @@
-# Data-visualization-of-Winter-Olympic-Games-By-R-Programming
+# R for Data Visualization 
 Compilation of R programming codes
