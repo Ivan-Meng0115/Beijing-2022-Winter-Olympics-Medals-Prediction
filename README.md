@@ -9,4 +9,7 @@ Almost 3000 Athletes, 200 Coaches and Technical Officials (with some personal da
 
 Disciplines: Alpine Skiing, Biathlon, Bobsleigh, Cross-Country Skiing, Curling, Figure Skating, Freestyle Skiing, Ice Hockey, Luge, Nordic Combined, Short Track Speed Skating, Skeleton, Ski Jumping, Snowboard, Speed Skating
 
-Datasets: 
+athletes.csv : personal information about all athletes
+coaches.csv : personal information about all coaches
+medals.csv: general information on all athletes who won a medal
+
