@@ -13,3 +13,11 @@ athletes.csv : personal information about all athletes
 coaches.csv : personal information about all coaches
 medals.csv: general information on all athletes who won a medal
 
+### Reprocessing Dtaa
+* drop duplicated and missing data
+* split and create new features dataset
+* merge the related datasets
+* reformate the dataset
+
+### Exploratory Data Analysis (EDA)
+
