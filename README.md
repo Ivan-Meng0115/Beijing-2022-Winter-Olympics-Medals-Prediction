@@ -21,7 +21,13 @@ medals.csv: general information on all athletes who won a medal
 
 ### Exploratory Data Analysis (EDA)
 
-####
+#### graph show the Top 10 Country
+![](
+
+#### graph showing the relationship between total medal counts and number of athletes
+![](https://github.com/Ivan-Meng0115/R-for-Data-Visualization/blob/main/medals%20for%20each%20country.png)
+In this graph, we can see that for countries with more athletes, they relatively have more medals earned in the Olympics. Countries with less than 50 athletes usually earned around 10 medals, where countries with more than 200 athletes earned more than 80 medals. Among all the countries, the US, Russia and Canada have the most athletes playing in the Olympic, which corresponded to a relatively high number of medals.
+
 
 ####
 
